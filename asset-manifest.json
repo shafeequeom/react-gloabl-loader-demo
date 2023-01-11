@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-global-loader-demo/static/css/main.24143ffc.css",
+    "main.js": "/react-global-loader-demo/static/js/main.3532f903.js",
+    "static/js/787.5aa3f3e1.chunk.js": "/react-global-loader-demo/static/js/787.5aa3f3e1.chunk.js",
+    "index.html": "/react-global-loader-demo/index.html",
+    "main.24143ffc.css.map": "/react-global-loader-demo/static/css/main.24143ffc.css.map",
+    "main.3532f903.js.map": "/react-global-loader-demo/static/js/main.3532f903.js.map",
+    "787.5aa3f3e1.chunk.js.map": "/react-global-loader-demo/static/js/787.5aa3f3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24143ffc.css",
+    "static/js/main.3532f903.js"
+  ]
+}
